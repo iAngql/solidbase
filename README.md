@@ -20,7 +20,7 @@ $ node .
 ### Since the server is running, you can actually start contracting with it.
 ### So let's start by creating some data
 ```powershell
-$ curl -d "DataName=user&name=John&age=19" -X POST http://(whereever your server is running at)/create
+$ curl -d "DataName=user&name=John&age=19" -X POST http://(wherever your server is running at)/create
 ```
 you can add more data as much as you want 
 
