@@ -35,9 +35,9 @@ you can add more data as much as you want
 
 ## Read data
 ```powershell
-$ curl -d "DataName=(data to read)" -X POST http://(whereever your server is running at)/read
+$ curl -d "DataName=(data to read)" -X POST http://(wherever your server is running at)/read
 ```
 ## Delete data
 ```powershell
-$ curl -d "DataName=(data to delete)" -X POST http://(whereever your server is running at)/delete
+$ curl -d "DataName=(data to delete)" -X POST http://(wherever your server is running at)/delete
 ```
